@@ -1,2 +1,3 @@
 # Controle de Estoque
- Sistema para controle de estoque
+
+ Sistema para controle de estoque desenvolvido em Python
